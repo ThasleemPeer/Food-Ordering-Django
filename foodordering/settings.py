@@ -28,6 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
+
+#master branch added
 # Application definition
 
 INSTALLED_APPS = [
